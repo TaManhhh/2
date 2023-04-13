@@ -1,0 +1,36 @@
+.header-menu{
+    font-size: 30px;
+    font-weight: 700;
+    margin: 20px;
+    color:#b4a8ff;
+}
+.menu{
+    margin-top:40px;
+    
+}
+.img-menu{
+    width: 200px;
+    height: 200px;
+    
+}
+.item-menu{
+    display:flex;
+    background-color:#e9e5ff;
+    border:1px solid #9180ff;
+    border-radius:5px; 
+}
+.title-menu{
+    margin: 40px 15px;
+
+}
+.price-menu{
+    margin: 80px 10px;
+    font-weight: 700;
+}
+.heart{
+    font-size: 20px;
+    color:red;
+}
+.heart-menu{
+    margin: 15px 7px;
+}

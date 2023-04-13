@@ -1,0 +1,13 @@
+.header{
+    height: 60px;
+    position: fixed;
+    width:1800px;
+    background-color:#a180ff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    display:flex;
+    gap: 50px
+}
